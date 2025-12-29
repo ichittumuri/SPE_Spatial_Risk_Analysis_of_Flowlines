@@ -1,0 +1,59 @@
+########################
+# Python
+########################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+venv/
+ENV/
+.ipynb_checkpoints/
+
+########################
+# R / RStudio
+########################
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+########################
+# Data & outputs (optional but common)
+########################
+*.csv
+*.tsv
+*.xlsx
+*.nc
+*.tif
+*.tiff
+*.h5
+*.hdf5
+
+########################
+# Figures
+########################
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+########################
+# OS junk
+########################
+.DS_Store
+Thumbs.db
+
+########################
+# Logs
+########################
+*.log
